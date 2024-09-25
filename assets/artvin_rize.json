@@ -1,0 +1,30 @@
+{
+    "08": {
+        "name": "Artvin",
+        "districts": [
+            "Ardanuç",
+            "Arhavi",
+            "Borçka",
+            "Hopa",
+            "Murgul",
+            "Şavşat",
+            "Yusufeli"
+        ]
+    },
+    "53": {
+        "name": "Rize",
+        "districts": [
+            "Ardeşen",
+            "Çamlıhemşin",
+            "Çayeli",
+            "Derepazarı",
+            "Fındıklı",
+            "Güneysu",
+            "Hemşin",
+            "İkizdere",
+            "İyidere",
+            "Kalkandere",
+            "Pazar"
+        ]
+    }
+}
